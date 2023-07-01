@@ -3,8 +3,8 @@
 - [AN INTRODUCTION TO THE USA COMPUTING OLYMPIAD](https://darrenyao.com/usacobook/cpp.pdf)
 
 # c++ tutorial
-[tutorialsPoint](https://www.tutorialspoint.com/cplusplus/)
 
+## [tutorialsPoint](https://www.tutorialspoint.com/cplusplus/)
 - C++ Variable Scope
 - C++ Operators
 - C++ Functions
@@ -28,8 +28,15 @@
     - The Standard Output Stream (cout)
     - The Standard Input Stream (cin)
 - C++ Data Structures
+  - defining structures /Accessing Structure Members
+  - Structures as Function Arguments
+  - Pointers to Structures
+  - ~~The typedef Keyword~~
 
-# el-azhar
+
+## [thenewboston Official Buckys C++ Programming Tutorials Playlist (Youtube playlist)](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
+
+# El-azhar
 
 ## level 1
 - [Level 1](https://sites.google.com/view/azharicpc/training-plans/level-1-training21?authuser=0)
@@ -87,12 +94,12 @@
 - mod operations
 
 
-#### week9
+### week9
 - data structures (Stack , queue , Dequeue)
     - queue example uses the idea of priority queue loop on the queue if the value == highest priority pop it out
 - containers , iterators
 
-#### week10
+### week10
 - data structures (set , map , PQ)
     - set bst explanation  
       -pq explanation not good
@@ -103,10 +110,10 @@
     - hash table
     - avl trees
 
-#### week 11
+### week 11
 - binary search (answer) , ternary search , linear search
 
-#### Week 12
+### Week 12
 - Two Pointers Technique
 - sliding window Technique
 
