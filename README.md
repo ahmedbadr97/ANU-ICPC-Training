@@ -1,7 +1,7 @@
 # Books and resources
 - [Competitive Programmer’s Handbook](https://usaco.guide/CPH.pdf)
 - [AN INTRODUCTION TO THE USA COMPUTING OLYMPIAD](https://darrenyao.com/usacobook/cpp.pdf)
-
+- [cheatsheets](./cheatsheets)
 # c++ tutorial
 
 ## [tutorialsPoint](https://www.tutorialspoint.com/cplusplus/)
